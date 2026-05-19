@@ -1,0 +1,2 @@
+-keep class com.salarytimer.data.** { *; }
+-keep class com.salarytimer.widget.** { *; }
